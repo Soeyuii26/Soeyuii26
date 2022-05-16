@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Soeyuii26
-- 👀 I’m interested in lots of things that I COULD NOT say exactly
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m a beginner in programming
-- 📫 How to reach me is go to instagram @rjin_sy
+- 👋 Hi, I’m Roy, my real name is Soe Yu.
+- 👀 I’m interested in coding and UI/UX Design, and among extracurricular activities, I love to play badminton:)
+- 🌱 I’m currently learning JavaScript and ReactJS since I want to be a React Developer.
+- 💞️ I try to be a better me tomorrow than today's me, and that keeps me going further steps.
+- 📫 You can reach me on linkedin(https://www.linkedin.com/in/soe-yu-roy-16549a216) and on instagram(username @roy05_).
 
 <!---
 Soeyuii26/Soeyuii26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
